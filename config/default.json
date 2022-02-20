@@ -1,0 +1,7 @@
+{
+    "serverPort": 5000,
+    "dburl": "mongodb+srv://gulyaev:09918002gvs@cloud.ij5ww.mongodb.net/cloud?retryWrites=true&w=majority",
+    "secretKey": "mern-secret-key",
+    "filePath": "/Users/vaceslav/Documents/mern-antdesign/server/files",
+    "staticPath": "/Users/vaceslav/Documents/mern-antdesign/server/static"
+}
